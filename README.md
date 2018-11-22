@@ -15,6 +15,6 @@ With this application you can search for files which filename contains a specifi
 Example : Search all files in all drives that contains ".mp3"
 
 
-You can also list all existing files in a result text file.
+You can also list all existing files in all drives in a result text file.
 
 
