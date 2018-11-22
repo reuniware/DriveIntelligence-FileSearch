@@ -7,6 +7,9 @@ Basic code for searching files in all drives. In comments there is code to uploa
 
 # DriveIntelligence-AdvancedFileSearch.zip
 
+# Project with source code and compiled .EXE file
+
+
 Improved version with better error management.
 
 
