@@ -15,7 +15,7 @@ Improved version with better error management.
 
 With this application you can search for files which filename contains a specific term.
 
-Example : Search all files in all drives that contains ".mp3"
+Example : Search all files in all drives with filename that contains ".mp3"
 
 
 You can also list all existing files in all drives in a result text file.
